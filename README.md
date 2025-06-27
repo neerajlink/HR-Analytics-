@@ -18,6 +18,13 @@ An interactive HR Analytics Dashboard built using **Streamlit**, **Plotly**, and
 ---
 
 ## 📁 Project Structure
+hr-analytics-dashboard/
+│
+├── HR.py # Streamlit application
+├── synthetic_hr_data.csv # Synthetic HR dataset (CSV)
+├── synthetic_hr_data.xlsx # Synthetic HR dataset (Excel)
+├── requirements.txt # Python dependencies
+└── README.md # Project description
 
 
 ---
